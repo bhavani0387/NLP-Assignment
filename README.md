@@ -39,7 +39,7 @@ model trained in task 2 to classify its intent and recognize the entities presen
 ### Steps to reproduce the results :
 - Upload the .wav file to the environment (google colab in this case.)
 - Install the required modules 
- * !pip install transformers==2.8.0
+> > * !pip install transformers==2.8.0
  * !pip install torch==1.4.0
  * !pip install -U spacy
  * !pip3 install SpeechRecognition pydub
